@@ -1,4 +1,5 @@
 class Llanta{
   float radio;
+  int color;
   String marca;
 }
