@@ -1,0 +1,8 @@
+class Motor{
+
+  String ref;
+  int cilindraje;
+  String marca;
+  float peso;
+
+}
