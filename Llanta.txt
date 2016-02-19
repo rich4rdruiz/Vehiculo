@@ -1,4 +1,5 @@
 class Llanta{
   float radio;
+  float espesor;
   String marca;
 }
